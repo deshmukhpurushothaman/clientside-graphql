@@ -10,6 +10,7 @@
 
   - apollo-client
   - @apollo-client
+  - react-apollo
 
 - Server Side
 
